@@ -1,0 +1,26 @@
+# PROMPTS UTILIZADOS NO PROJETO – PODCAST “CARREIRA TECH SEM SEGREDOS”
+
+───────────────────────────────────────────
+🎙️ Prompt para Título do Podcast
+───────────────────────────────────────────
+Crie 10 títulos curtos, modernos e profissionais para um podcast sobre carreira no mercado de tecnologia. O tom deve ser motivador e simples.
+
+───────────────────────────────────────────
+🧠 Prompt para o Roteiro
+───────────────────────────────────────────
+Crie um roteiro completo para um episódio de 5 minutos do podcast “Carreira Tech Sem Segredos”. O tema é “Como entrar na área de tecnologia sem experiência”. O host se chama Danilo Silva Barbosa. Estruture em: abertura, tópicos centrais e encerramento.
+
+───────────────────────────────────────────
+🎨 Prompt para a Capa (estilo Simpsons)
+───────────────────────────────────────────
+Crie uma capa no estilo Simpsons para um podcast chamado “Carreira Tech Sem Segredos”, com personagens em um estúdio ou escritório de tecnologia, microfone e computador. Estilo colorido, cartunesco e 2D.
+
+───────────────────────────────────────────
+📝 Prompt para Descrição
+───────────────────────────────────────────
+Crie uma descrição curta e profissional para um podcast sobre carreira e mercado de trabalho na área de tecnologia para iniciantes.
+
+───────────────────────────────────────────
+🔊 Prompt para Geração de Voz IA
+───────────────────────────────────────────
+Gere uma narração clara e natural com voz masculina profissional lendo o roteiro abaixo. O tom deve ser motivador e calmo.
