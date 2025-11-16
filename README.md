@@ -31,7 +31,7 @@ O importante é: qual dessas áreas te motiva?
 Identificar isso facilita sua jornada.
 
 
-2. Comece estudando o básico — e com constância
+## 📌2. Comece estudando o básico — e com constância
 Não existe entrada no mercado sem estudo, mas hoje aprender ficou muito acessível.
 
 Você pode usar:
@@ -44,7 +44,7 @@ Você pode usar:
 
 O ponto mais importante não é a velocidade, mas sim a **consistência**.
 
-3. Crie projetos reais — mesmo pequenos
+## 📌3. Crie projetos reais — mesmo pequenos
 As empresas querem ver *o que você é capaz de fazer*, não apenas lista de cursos.
 
 Faça projetos simples como:
@@ -60,7 +60,7 @@ E publique tudo no **GitHub**.
 Ele é seu **portfólio técnico oficial**.
 
 
-4. Como buscar a primeira oportunidade
+## 📌4. Como buscar a primeira oportunidade
 Depois dos seus primeiros projetos, você pode começar a aplicar.
 
 Dicas:
